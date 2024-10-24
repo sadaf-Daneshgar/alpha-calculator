@@ -59,7 +59,7 @@ This is a Calculator project that is built with HTML, CSS, and JavaScript. It is
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
  🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://sadaf-portfolio.vercel.app/)
+- [Live Demo Link](https://sadaf-daneshgar.github.io/alpha-calculator/)
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
