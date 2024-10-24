@@ -1,0 +1,40 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.btn,
+.clear {
+  margin: 0.3%;
+  width: 16%;
+  height: 60px;
+  box-shadow: 0 0 5px 0 #bbb;
+}
+
+.clear {
+  border: none;
+  background-color: #fff;
+}
+
+input {
+  outline: 1px solid rgb(218, 228, 243);
+  border: none;
+  box-shadow: 0 0 5px 0 #bbb;
+}
+
+.main {
+  margin: 4rem auto;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+
+#calc-board {
+  align-items: center;
+}
+
+.reset {
+  font-size: 15px;
+  font-weight: bolder;
+}
