@@ -4,6 +4,12 @@
   padding: 0;
 }
 
+body {
+  background-image: url('image/cal.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 .btn,
 .clear {
   margin: 0.3%;
@@ -14,7 +20,9 @@
 
 .clear {
   border: none;
-  background-color: #fff;
+  background-color: #ffff;
+  border-radius: 5px;
+  box-shadow: 0 0 5px 0 #bbb
 }
 
 input {
