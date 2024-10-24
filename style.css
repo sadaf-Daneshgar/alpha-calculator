@@ -8,6 +8,14 @@ body {
   background-image: url('image/cal.jpg');
   background-repeat: no-repeat;
   background-size: cover;
+  height: 90vh;
+}
+
+@media screen and (max-width: 768px) {
+  body {
+    background-image: url('image/calc.jpg');
+    background-position: calc(50% - 50px);
+  }
 }
 
 .btn,
